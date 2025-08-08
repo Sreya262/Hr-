@@ -36,8 +36,8 @@ This project is a comprehensive **HR Analytics Dashboard** created in **Tableau 
 
 ## 📁 Files Included
 
-- `HR_Analytics_Dashboard.twbx` – Packaged Tableau Workbook  
-- `hr_data.xlsx` – Sample HR dataset used in this project  
+- `HR DASHBOARD.twb` – Packaged Tableau Workbook  
+- `HR Data.xlsx` – Sample HR dataset used in this project  
 - `dashboard screenshot.png` – Preview of the final dashboard
 
 ## 🧠 What I Learned
