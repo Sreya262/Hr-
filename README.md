@@ -48,7 +48,8 @@ This project is a comprehensive **HR Analytics Dashboard** created in **Tableau 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](<img width="1580" height="900" alt="dashboard screenshot" src="https://github.com/user-attachments/assets/17ace496-1b7f-4fa6-9ccf-1c64fe54934d" />
+)
 
 ---
 
